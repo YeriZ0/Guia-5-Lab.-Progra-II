@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GUIA 5 - Iniciativa Avengers" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/GUIA 5 - Iniciativa Avengers" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="../GUIA 5 - Iniciativa Avengers" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/GUIA 5 - Iniciativa Avengers" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="../GUIA 5 - Iniciativa Avengers" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Capitan_America.h" />
+		<Unit filename="Hulk.h" />
+		<Unit filename="Humano.h" />
+		<Unit filename="Iron_Man.h" />
+		<Unit filename="Thor.h" />
+		<Unit filename="Viuda_Negra.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Capitan_America.cpp" />
+		<Unit filename="src/Hulk.cpp" />
+		<Unit filename="src/Humano.cpp" />
+		<Unit filename="src/Iron_Man.cpp" />
+		<Unit filename="src/Thor.cpp" />
+		<Unit filename="src/Viuda_Negra.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

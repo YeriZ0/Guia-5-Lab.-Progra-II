@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1713016757 source:c:\users\pc24_a24\documents\fredy campos\lab. de programacion ii\guia 5 - iniciativa avengers\main.cpp
+	<iostream>
+
+1713016163 source:c:\users\pc24_a24\documents\fredy campos\lab. de programacion ii\guia 5 - iniciativa avengers\src\humano.cpp
+	"Humano.h"
+
+1713017353 c:\users\pc24_a24\documents\fredy campos\lab. de programacion ii\guia 5 - iniciativa avengers\humano.h
+	<string>
+
+1713017750 source:c:\users\pc24_a24\documents\fredy campos\lab. de programacion ii\guia 5 - iniciativa avengers\src\iron_man.cpp
+	"Iron_Man.h"
+
+1713018347 c:\users\pc24_a24\documents\fredy campos\lab. de programacion ii\guia 5 - iniciativa avengers\iron_man.h
+	"Humano.h"
+
+1713552806 source:d:\universidad uso\ciclo iii\lab de programacion ii\guia 5 - fredy alexander campos figueroa\guia 5 - iniciativa avengers\src\iron_man.cpp
+	<iostream>
+	"Iron_Man.h"
+
+1713554940 d:\universidad uso\ciclo iii\lab de programacion ii\guia 5 - fredy alexander campos figueroa\guia 5 - iniciativa avengers\iron_man.h
+	"Humano.h"
+
+1713532693 d:\universidad uso\ciclo iii\lab de programacion ii\guia 5 - fredy alexander campos figueroa\guia 5 - iniciativa avengers\humano.h
+	<string>
+
+1713546967 source:d:\universidad uso\ciclo iii\lab de programacion ii\guia 5 - fredy alexander campos figueroa\guia 5 - iniciativa avengers\src\humano.cpp
+	<iostream>
+	"Humano.h"
+
+1713555727 source:d:\universidad uso\ciclo iii\lab de programacion ii\guia 5 - fredy alexander campos figueroa\guia 5 - iniciativa avengers\main.cpp
+	<iostream>
+	"Iron_Man.h"
+	"Capitan_America.h"
+	"Viuda_Negra.h"
+	"Hulk.h"
+
+1713545405 source:d:\universidad uso\ciclo iii\lab de programacion ii\guia 5 - fredy alexander campos figueroa\guia 5 - iniciativa avengers\src\avengers.cpp
+	<iostream>
+	"Avengers.h"
+
+1713545405 d:\universidad uso\ciclo iii\lab de programacion ii\guia 5 - fredy alexander campos figueroa\guia 5 - iniciativa avengers\avengers.h
+	"Iron_Man.h"
+	"Capitan_America.h"
+
+1713554940 d:\universidad uso\ciclo iii\lab de programacion ii\guia 5 - fredy alexander campos figueroa\guia 5 - iniciativa avengers\capitan_america.h
+	"Humano.h"
+
+1713554416 source:d:\universidad uso\ciclo iii\lab de programacion ii\guia 5 - fredy alexander campos figueroa\guia 5 - iniciativa avengers\src\capitan_america.cpp
+	<iostream>
+	"Capitan_America.h"
+
+1713554333 source:d:\universidad uso\ciclo iii\lab de programacion ii\guia 5 - fredy alexander campos figueroa\guia 5 - iniciativa avengers\src\viuda_negra.cpp
+	<iostream>
+	"Viuda_Negra.h"
+
+1713554321 d:\universidad uso\ciclo iii\lab de programacion ii\guia 5 - fredy alexander campos figueroa\guia 5 - iniciativa avengers\viuda_negra.h
+	"Humano.h"
+
+1713555735 source:d:\universidad uso\ciclo iii\lab de programacion ii\guia 5 - fredy alexander campos figueroa\guia 5 - iniciativa avengers\src\hulk.cpp
+	<iostream>
+	"Hulk.h"
+
+1713555005 d:\universidad uso\ciclo iii\lab de programacion ii\guia 5 - fredy alexander campos figueroa\guia 5 - iniciativa avengers\hulk.h
+	"Humano.h"
+
+1713556919 source:d:\universidad uso\ciclo iii\lab de programacion ii\guia 5 - fredy alexander campos figueroa\guia 5 - iniciativa avengers\src\thor.cpp
+	<iostream>
+	"Thor.h"
+
+1713556946 d:\universidad uso\ciclo iii\lab de programacion ii\guia 5 - fredy alexander campos figueroa\guia 5 - iniciativa avengers\thor.h
+	"Humano.h"
+
